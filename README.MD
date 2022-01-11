@@ -6,6 +6,6 @@
 
 ## Instruction - HowToUse
 
-1. Download latest release `mcmodhelper.zip` file
+1. Download latest release `mcmodhelper-univeras.zip for linux/mac/windows (.py) or mcmodehelper-wi` file
 2. Extract the zip file
 3. Place the contents of the zip file (``)
