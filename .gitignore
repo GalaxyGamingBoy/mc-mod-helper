@@ -1,2 +1,8 @@
 assets/
 data/
+build/
+dist/
+mcmodhelper.spec
+__pycache__/mcmodhelper.cpython-39.pyc
+mcmodhelper.zip
+icon.ico
