@@ -73,5 +73,5 @@ The following .py file needs these extensions:
 
 ### Windows Build
 
-The Windows EXE file is generated with `Pyinstaller` and the command is:
+The Windows EXE file is generated with `Pyinstaller` and the command is:     
 `pyinstaller --onefile --icon icon.ico .\mcmodhelper.py`
